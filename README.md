@@ -1,16 +1,69 @@
-# React + Vite
+# Digital Heroes Resume Builder
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern Resume Builder built using React and Vite that helps users create professional resumes with live preview and PDF download.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+[https://digital-heroes-resume-builder.vercel.app/](https://digital-heroes-resume-builder.vercel.app/)
 
-## React Compiler
+## 💻 GitHub Repository
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+[https://github.com/ayushi-baliyan/digital-heroes-resume-builder](https://github.com/ayushi-baliyan/digital-heroes-resume-builder)
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Live Resume Preview
+
+- Professional Resume Templates
+
+- Add/Edit Education
+
+- Add/Edit Experience
+
+- Skills Section
+
+- Responsive Design
+
+- Download Resume as PDF
+
+## 🛠 Tech Stack
+
+- React
+
+- Vite
+
+- JavaScript
+
+- HTML5
+
+- CSS3
+
+## 📦 Installation
+
+git clone [https://github.com/ayushi-baliyan/digital-heroes-resume-builder.git](https://github.com/ayushi-baliyan/digital-heroes-resume-builder.git)
+
+cd digital-heroes-resume-builder
+
+npm install
+
+npm run dev
+
+## 📷 Screenshots
+
+(Screenshots will be added later)
+
+## 👩‍💻 Author
+
+Ayushi Baliyan
+
+LinkedIn:
+
+[https://www.linkedin.com/in/ayushi-baliyan/](https://www.linkedin.com/in/ayushi-baliyan/)
+
+Portfolio:
+
+[https://portfolio-ayushi8.vercel.app/](https://portfolio-ayushi8.vercel.app/)
+
+GitHub:
+
+[https://github.com/ayushi-baliyan](https://github.com/ayushi-baliyan)
