@@ -10,6 +10,18 @@ A modern Resume Builder web application built using React and Vite.
 - Fast performance with Vite
 - Easy customization
 
+## 📸 Screenshots
+
+### Home
+![Home](screenshots/home.png)
+
+### Resume Form
+![Resume Form](screenshots/form.png)
+
+### Resume Preview
+![Resume Preview](screenshots/preview.png)
+
+
 ## Tech Stack
 
 - React
