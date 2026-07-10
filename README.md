@@ -1,69 +1,42 @@
 # Digital Heroes Resume Builder
 
-A modern Resume Builder built using React and Vite that helps users create professional resumes with live preview and PDF download.
+A modern Resume Builder web application built using React and Vite.
 
-## 🚀 Live Demo
+## Features
 
-[https://digital-heroes-resume-builder.vercel.app/](https://digital-heroes-resume-builder.vercel.app/)
+- Create professional resumes
+- Responsive design
+- Clean and user-friendly interface
+- Fast performance with Vite
+- Easy customization
 
-## 💻 GitHub Repository
-
-[https://github.com/ayushi-baliyan/digital-heroes-resume-builder](https://github.com/ayushi-baliyan/digital-heroes-resume-builder)
-
-## ✨ Features
-
-- Live Resume Preview
-
-- Professional Resume Templates
-
-- Add/Edit Education
-
-- Add/Edit Experience
-
-- Skills Section
-
-- Responsive Design
-
-- Download Resume as PDF
-
-## 🛠 Tech Stack
+## Tech Stack
 
 - React
-
 - Vite
-
 - JavaScript
-
 - HTML5
-
 - CSS3
 
-## 📦 Installation
+## Live Demo
 
-git clone [https://github.com/ayushi-baliyan/digital-heroes-resume-builder.git](https://github.com/ayushi-baliyan/digital-heroes-resume-builder.git)
+https://digital-heroes-resume-builder.vercel.app/
 
-cd digital-heroes-resume-builder
+## GitHub Repository
 
+https://github.com/ayushi-baliyan/digital-heroes-resume-builder
+
+## Installation
+
+```bash
 npm install
-
 npm run dev
+```
 
-## 📷 Screenshots
+## Author
 
-(Screenshots will be added later)
+**Ayushi Baliyan**
 
-## 👩‍💻 Author
-
-Ayushi Baliyan
-
-LinkedIn:
-
-[https://www.linkedin.com/in/ayushi-baliyan/](https://www.linkedin.com/in/ayushi-baliyan/)
-
-Portfolio:
-
-[https://portfolio-ayushi8.vercel.app/](https://portfolio-ayushi8.vercel.app/)
-
-GitHub:
-
-[https://github.com/ayushi-baliyan](https://github.com/ayushi-baliyan)
+- Portfolio: https://portfolio-ayushi8.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/ayushi-baliyan/
+- GitHub: https://github.com/ayushi-baliyan
